@@ -31,7 +31,7 @@ Both are also some of the highest in security delays.
 
 ---
 
-## Seasonal
+## Seasonal Trends
 
 The total minute average per airline throughout the seasons.
 Spring and Summer tend to be a strong suit for delays, especially for NK (Spirit Airlines).
@@ -40,6 +40,7 @@ Spring and Summer tend to be a strong suit for delays, especially for NK (Spirit
 
 ---
 
+## Weekly Overview
 The lowest in this chart are usually considered as dates with the lowest priced fares due to demand, leading to the expected lesser delays.
 ![weekleyu](https://github.com/sysdeo/FlightsDataSet/assets/140428232/56e4624a-7ae6-4da5-9721-47c510502015)
 
