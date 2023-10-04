@@ -1,6 +1,6 @@
-`Total delayed flights by day of week`
+`Main table for sorting flights by day of week`
 
-insert into nflights (day_of_week, nday)
+INSERT INTO nflights (day_of_week, nday)
 
 select day_of_week, count(*)
 
@@ -50,7 +50,7 @@ destination_airport TEXT
 
 `Inserting into 1 of the main tables specific columns to further process delays over 0 minutes`
 
-insert into delay_type(arrival_delay, air_system_delay, security_delay,airline_delay,late_aircraft,weather_delay,airline,flight_number, origin_airport,destination_airport)
+INSERT INTO delay_type(arrival_delay, air_system_delay, security_delay,airline_delay,late_aircraft,weather_delay,airline,flight_number, origin_airport,destination_airport)
 
 select arrival_delay, air_system_delay, security_delay,airline_delay,late_aircraft_delay,weather_delay,airline,flight_number, origin_airport,destination_airport
 
