@@ -13,7 +13,7 @@ order by day_of_week
 
 
 ---
-`Created table delay type to count delays by department,flight number, origin, destination, time of day
+`Created table delay type to count delays by department,flight number, origin, destination, time of day`
 
 create table delay_type(
 
@@ -64,7 +64,8 @@ CREATE TABLE six_way_delays (
     delay_count_at_destination INTEGER;
 );
 
--- Populate the table with segmented data
+`Populate the table with segmented data`
+
 INSERT INTO six_way_delays (airline, flight_number, origin_airport, destination_airport, delay_minutes, time_of_day)
 SELECT 
     airline, 
