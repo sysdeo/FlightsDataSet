@@ -1,6 +1,8 @@
 # FlightsDataSet
 Using Dbeaver with PostgreSQL for data processing and Tableau for data visualizations.
 
+The notes.md above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
+
 [Visit Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/usdot/flight-delays)https://www.kaggle.com/datasets/usdot/flight-delays) for more information on the dataset's contents.
 
 The lowest in this chart are usually considered as dates with the lowest priced fares due to demand, leading to the expected lesser delays.
