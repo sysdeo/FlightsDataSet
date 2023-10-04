@@ -1,7 +1,7 @@
 # FlightsDataSet
-#Using **Dbeaver** with **PostgreSQL** for data processing and **Tableau** for data visualizations.
+# Using **Dbeaver** with **PostgreSQL** for data processing and **Tableau** for data visualizations.
 
-###The **notes.md** above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
+### The **notes.md** above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
 
 The most telling visualizations in this dataset cover the peak delays in hours of the day and minute-delay average
 
