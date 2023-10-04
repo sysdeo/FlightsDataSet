@@ -16,14 +16,11 @@ The dataset spans Jan 1 to Dec 31, limiting winter season analysis
 Around rush-hour is where the highest delay counts occur.
 
 ![12mo](https://github.com/sysdeo/FlightsDataSet/assets/140428232/bae740a8-4229-4403-8a64-950f904e4376)
-
 ---
 
 WN Tends to be the highest in delays across all charts
 
-![top5aa](https://github.com/sysdeo/FlightsDataSet/assets/140428232/5f5e1b3c-4367-45ca-b311-45cdc732f78c)
-
----
+![top5aa](https://github.com/sysdeo/FlightsDataSet/assets/140428232/5f5e1b3c-4367-45ca-b311-45cdc732f78c) ---
 
 
 Atlanta is globally one of the busiest airports by default.
