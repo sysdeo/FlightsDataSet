@@ -44,11 +44,14 @@ Spring and Summer tend to be a strong suit for delays, especially for NK (Spirit
 ![Airlinen](https://github.com/sysdeo/FlightsDataSet/assets/140428232/7f2e01b1-de51-4249-89ac-8d0585fd1c8f)
 
 ---
+
 Leading destinations often remain the same at the top
+
 ![loc](https://github.com/sysdeo/FlightsDataSet/assets/140428232/68894db2-8a8f-4e6f-b214-56b298ed0ef5)
 
 ---
 US airlines has 0 delays in Fall and Winter
+
 ![seiz](https://github.com/sysdeo/FlightsDataSet/assets/140428232/c5056e18-9a9d-418d-a546-891c8b51b9c1)
 
 
@@ -56,6 +59,7 @@ US airlines has 0 delays in Fall and Winter
 
 ## Weekly Overview
 The lowest in this chart are usually considered as dates with the lowest priced fares due to demand, leading to the expected lesser delays.
+
 ![weekleyu](https://github.com/sysdeo/FlightsDataSet/assets/140428232/56e4624a-7ae6-4da5-9721-47c510502015)
 
 
