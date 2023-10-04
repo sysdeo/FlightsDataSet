@@ -7,7 +7,7 @@ And **Tableau** for data visualization
 
 The most telling visualizations in this dataset cover the **peak delays in hours of the day and minute-delay average**
 
-[Visit Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/usdot/flight-delays)https://www.kaggle.com/datasets/usdot/flight-delays) for more information on this dataset's contents.
+[Visit Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays)https://www.kaggle.com/datasets/usdot/flight-delays) for more information on this dataset's contents.
 
 
 # Yearly Charts
