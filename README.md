@@ -11,17 +11,22 @@ The most telling visualizations in this dataset cover the peak delays in hours o
 # Yearly Charts
 
 Around rush-hour is where the highest delay counts occur.
+
 ![12mo](https://github.com/sysdeo/FlightsDataSet/assets/140428232/bae740a8-4229-4403-8a64-950f904e4376)
 
 ---
 
-This is a 1 Year Overview on the **most delayed airlines**
+WN Tends to be the highest across all delay types **most delayed airlines**
+
 ![top5aa](https://github.com/sysdeo/FlightsDataSet/assets/140428232/5f5e1b3c-4367-45ca-b311-45cdc732f78c)
 
 ---
 
 
-Atlanta is globally one of the busiest airports and Chicago tend to be some of the most delayed airports in USA. Both of these are also some of the highest in security delays.
+Atlanta is globally one of the busiest airports by default.
+Chicago is considered of the most delayed airports in USA.
+Both are also some of the highest in security delays.
+
 ![NumeroSinko](https://github.com/sysdeo/FlightsDataSet/assets/140428232/2ade6521-6fff-4fac-9578-16e73944a1f5)
 
 ---
@@ -30,13 +35,16 @@ Atlanta is globally one of the busiest airports and Chicago tend to be some of t
 The lowest in this chart are usually considered as dates with the lowest priced fares due to demand, leading to the expected lesser delays.
 ![weekleyu](https://github.com/sysdeo/FlightsDataSet/assets/140428232/56e4624a-7ae6-4da5-9721-47c510502015)
 
+---
 
+The total minute average per airline throughout the seasons.
+Spring and Summer tend to be a strong suit for delays, especially for NK (Spirit Airlines).
 
-Here we can see the total minute average per airline throughout the seasons. Spring and Summer tend to be a strong suit for delays, especially for NK (Spirit Airlines).
 ![Airlinen](https://github.com/sysdeo/FlightsDataSet/assets/140428232/7f2e01b1-de51-4249-89ac-8d0585fd1c8f)
 
+---
 
-Conclusions:
+### Conclusions:
 
 Peak hours for delays align with general rush hours.
 Atlanta and Chicago airports have notably high delays.
