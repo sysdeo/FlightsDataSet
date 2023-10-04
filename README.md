@@ -1,7 +1,7 @@
 # FlightsDataSet
-Using Dbeaver with PostgreSQL for data processing and Tableau for data visualizations.
+#Using **Dbeaver** with **PostgreSQL** for data processing and **Tableau** for data visualizations.
 
-The notes.md above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
+###The **notes.md** above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
 
 The most telling visualizations in this dataset cover the peak delays in hours of the day and minute-delay average
 
@@ -23,7 +23,13 @@ As expected around rush hour-times, the highest delay count occurs.
 
 
 This is a 1 Year Overview on the most delayed airlines
-![NumeroSinko](https://github.com/sysdeo/FlightsDataSet/assets/140428232/59be23ca-55e6-4244-aefd-0da3aadd4359)
+![top5aa](https://github.com/sysdeo/FlightsDataSet/assets/140428232/620a9958-a341-4520-ba63-c0c4a760bfb1)
+
+
+
+
+Atlanta is globally one of the busiest airports and Chicago tend to be some of the most delayed airports in USA. Both of these are also some of the highest in security delays.
+![NumeroSinko](https://github.com/sysdeo/FlightsDataSet/assets/140428232/cbf1d767-101d-4ec5-9bb2-9bc364cfae5c)
 
 
 
@@ -31,13 +37,10 @@ Here we can see the total minute average per airline throughout the seasons. Spr
 ![Airlinen](https://github.com/sysdeo/FlightsDataSet/assets/140428232/7f2e01b1-de51-4249-89ac-8d0585fd1c8f)
 
 
+Conclusions:
 
-Atlanta is globally one of the busiest airports and Chicago tend to be some of the most delayed airports in USA. Both of these are also some of the highest in security delays.
-![top5aa](https://github.com/sysdeo/FlightsDataSet/assets/140428232/0abfbbc2-c05b-4ed7-84fe-19da533aa26e)
-
-
-
-
+Peak hours for delays align with general rush hours.
+Atlanta and Chicago airports have notably high delays.
 
 
 
