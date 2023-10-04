@@ -3,9 +3,7 @@ Using **PostgreSQL** via **DBeaver** for data processing
 
 And **Tableau** for data visualization
 
-`Note` 
-
-the **CodeBase.md** above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
+`Note:` the **CodeBase.md** above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
 
 The most telling visualizations in this dataset cover the **peak delays in hours of the day and minute-delay average**
 
