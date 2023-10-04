@@ -14,7 +14,11 @@ order by day_of_week
 
 
 ---
-`Created table delay type to count delays by:` `Department, Flight Number, Origin, Destination, Time of day`
+`Created table delay type to count delays by:`
+
+`Department, Flight Number, Origin, Destination, Time of day`
+
+
 `Note: this is the table of which the majority of charts come from`
 
 create table delay_type(
@@ -54,6 +58,7 @@ where arrival_delay > 0
 ---
 
 `Creating a table showing delays with over 0 for 6 sections of the day including:`
+
 `Midnight, Dawn, Morning, Noon, Afternoon, Dusk`
 
 
