@@ -7,9 +7,9 @@ And **Tableau** for data visualization
 
 The most telling visualizations in this dataset cover the **peak delays in hours of the day and minute-delay average**
 
-[Visit Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays) for more information on this dataset's contents.
-
 The dataset spans Jan 1 to Dec 31, limiting winter season analysis
+
+[Visit Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays) for more information on this dataset's contents.
 
 # Yearly Charts
 
