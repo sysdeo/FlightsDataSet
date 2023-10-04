@@ -41,16 +41,6 @@ Spring and Summer tend to be a strong suit for delays, especially for NK (Spirit
 ![Airlinen](https://github.com/sysdeo/FlightsDataSet/assets/140428232/7f2e01b1-de51-4249-89ac-8d0585fd1c8f)
 
 ---
-Summer and Fall are leading the charts for airlines.
-
-![image1](https://github.com/sysdeo/FlightsDataSet/assets/140428232/df69a8bb-ae41-4104-b843-44c4c419fe97)
-![image2](https://github.com/sysdeo/FlightsDataSet/assets/140428232/e08dce19-0b68-457d-b6a8-2aa8d39d751d)
-![image3](https://github.com/sysdeo/FlightsDataSet/assets/140428232/245c8b3e-8ded-4e53-9ec4-42a2ec7eecfe)
-![image4](https://github.com/sysdeo/FlightsDataSet/assets/140428232/0d2b58b9-7e39-4989-8536-9495e4ff90f0)
-
----
-
-
 
 ---
 
