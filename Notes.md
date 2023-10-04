@@ -1,4 +1,5 @@
 `Total delayed flights by day of week`
+
 insert into nflights (day_of_week, nday)
 
 select day_of_week, count(*)
@@ -13,7 +14,8 @@ order by day_of_week
 
 
 ---
-`Created table delay type to count delays by department,flight number, origin, destination, time of day`
+`Created table delay type to count delays by:` `Department, Flight Number, Origin, Destination, Time of day`
+`Note: this is the table of which the majority of charts come from`
 
 create table delay_type(
 
@@ -38,6 +40,7 @@ origin_airport text,
 destination_airport text);
 
 ----
+
 `Inserting into 1 of the main tables specific columns to further process delays over 0 minutes`
 
 insert into delay_type(arrival_delay, air_system_delay, security_delay,airline_delay,late_aircraft,weather_delay,airline,flight_number, origin_airport,destination_airport)
@@ -49,6 +52,7 @@ from flights
 where arrival_delay > 0
 
 ---
+
 `Creating a table showing delays with over 0 for 6 sections of the day including:`
 `Midnight, Dawn, Morning, Noon, Afternoon, Dusk`
 
@@ -63,6 +67,8 @@ CREATE TABLE six_way_delays (
     time_of_day TEXT
     delay_count_at_destination INTEGER;
 );
+
+---
 
 `Populate the table with segmented data`
 
@@ -86,13 +92,9 @@ FROM
 WHERE 
     arrival_delay > 0;
 
-
-
-
-
 ----
 
-` Populating the table with segmented data`
+`Populating the table with segmented data`
 
 INSERT INTO six_way_delays (airline, flight_number, origin_airport, destination_airport, delay_minutes, time_of_day)
 
@@ -133,7 +135,8 @@ WHERE
 arrival_delay > 0;`
 
 ----
-``
+
+`Counting unique delays by Airport`
 
 UPDATE six_way_delays
 SET delay_count_at_destination = subquery.delay_count
