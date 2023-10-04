@@ -2,19 +2,19 @@
 
 INSERT INTO nflights (day_of_week, nday)
 
-select day_of_week, count(*)
+SELECT day_of_week, count(*)
 
-from flights
+FROM flights
 
-where arrival_delay > 0
+WHERE arrival_delay > 0
 
-group by day_of_week
+GROUP BY day_of_week
 
-order by day_of_week
+ORDER BY day_of_week
 
 ---
 
-`Note: this is the table from which the majority of charts come from`
+`Note: this is the table FROM which the majority of charts come FROM`
 
 `Created a table called delay type to count delays by:`
 
@@ -52,11 +52,11 @@ destination_airport TEXT
 
 INSERT INTO delay_type(arrival_delay, air_system_delay, security_delay,airline_delay,late_aircraft,weather_delay,airline,flight_number, origin_airport,destination_airport)
 
-select arrival_delay, air_system_delay, security_delay,airline_delay,late_aircraft_delay,weather_delay,airline,flight_number, origin_airport,destination_airport
+SELECT arrival_delay, air_system_delay, security_delay,airline_delay,late_aircraft_delay,weather_delay,airline,flight_number, origin_airport,destination_airport
 
-from flights
+FROM flights
 
-where arrival_delay > 0
+WHERE arrival_delay > 0
 
 ---
 
@@ -139,7 +139,7 @@ flights
 
 WHERE
 
-arrival_delay > 0;`
+arrival_delay > 0;
 
 ---
 
