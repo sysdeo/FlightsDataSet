@@ -1,9 +1,10 @@
-# FlightsDataSet
-Using **Dbeaver** with **PostgreSQL** for data processing and **Tableau** for data visualizations.
+# Flights DataSet
+Using **PostgreSQL** via **DBeaver** for data processing
+And **Tableau** for data visualization
 
-The **notes.md** above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
+`Note` the **CodeBase.md** above contains some of the key code snippets for the more important visualizations in this dataset breakdown.
 
-The most telling visualizations in this dataset cover the peak delays in hours of the day and minute-delay average
+The most telling visualizations in this dataset cover the **peak delays in hours of the day and minute-delay average**
 
 [Visit Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/usdot/flight-delays)https://www.kaggle.com/datasets/usdot/flight-delays) for more information on this dataset's contents.
 
