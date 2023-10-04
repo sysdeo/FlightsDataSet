@@ -12,13 +12,17 @@ group by day_of_week
 
 order by day_of_week
 
-`Created table delay type to count delays by:`
+---
+
+`Note: this is the table from which the majority of charts come from`
+
+`Created a table called delay type to count delays by:`
 
 `Department, Flight Number, Origin, Destination and Time of day`
 
 
 
-create table delay_type(
+CREATE TABLE delay_type(
 
 arrival_delay NUMERIC,
 
@@ -38,9 +42,9 @@ flight_number NUMERIC(4),
 
 origin_airport TEXT,
 
-destination_airport TEXT);
+destination_airport TEXT
+);
 
-`Note: this is the table from which the majority of charts come from`
 
 ---
 
