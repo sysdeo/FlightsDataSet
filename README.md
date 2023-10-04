@@ -27,6 +27,7 @@ WN Tends to be the highest in delays across all charts
 
 
 Atlanta is globally one of the busiest airports by default.
+
 Chicago is considered of the most delayed airports in USA.
 Both are also some of the highest in security delays.
 
@@ -37,6 +38,7 @@ Both are also some of the highest in security delays.
 ## Seasonal Trends
 
 The total minute average per airline throughout the seasons.
+
 Spring and Summer tend to be a strong suit for delays, especially for NK (Spirit Airlines).
 
 ![Airlinen](https://github.com/sysdeo/FlightsDataSet/assets/140428232/7f2e01b1-de51-4249-89ac-8d0585fd1c8f)
